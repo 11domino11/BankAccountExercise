@@ -1,0 +1,8 @@
+C:\Users\Damion\source\repos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\BankEncapsulationExercise.exe.config
+C:\Users\Damion\source\repos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\BankEncapsulationExercise.exe
+C:\Users\Damion\source\repos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\BankEncapsulationExercise.pdb
+C:\Users\Damion\source\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\BankEncapsulationExercise.csproj.AssemblyReference.cache
+C:\Users\Damion\source\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\BankEncapsulationExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\Damion\source\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\BankEncapsulationExercise.csproj.CoreCompileInputs.cache
+C:\Users\Damion\source\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\BankEncapsulationExercise.exe
+C:\Users\Damion\source\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\BankEncapsulationExercise.pdb
